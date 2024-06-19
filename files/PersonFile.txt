@@ -1,0 +1,10 @@
+Warda,6666,44,Female
+Moiz,3333,33,Male
+Wali,4444,22,Male,
+Humna,2222,44,Female
+Memona,8888,33,Female
+Sania,9999,29,Female
+Huzaifa,1212,77,male
+Ahmad,3443,22,Male
+Ayesha,3221,33,female
+kdj123899,23789469,237681,248916
