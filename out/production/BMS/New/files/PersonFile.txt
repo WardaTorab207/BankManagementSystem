@@ -1,9 +1,0 @@
-warda,11111,11,female
-memona,22222,22,female
-sania,33333,23,female
-ahmad,44444,24,male
-ali,55555,32,male
-zunaira,99999,32,female
-humna,66666,12,female
-fatima,77777,22,female
-hammad,78787,32,male

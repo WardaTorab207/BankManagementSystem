@@ -1,5 +1,0 @@
-CL001,memona,22222,22,female
-CL002,sania,33333,23,female
-CL004,ahmad,44444,24,male
-CL005,ali,55555,32,male
-CL006,zunaira,99999,32,female
